@@ -16,6 +16,7 @@ export default function App() {
       <div className="min-h-screen bg-green-50 p-6 space-y-6">
         {/* <h1 className="text-2xl font-bold text-green-700">Plantora 🌿</h1> */}
 
+        {/* todo add margin or padding bottom */}
         <Link to="/" className="text-2xl font-bold text-green-700">
           Plantora 🌿
         </Link>

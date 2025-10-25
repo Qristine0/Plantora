@@ -1,18 +1,18 @@
 import { useState } from "react";
-import { GoogleGenAI } from "@google/genai";
 
-// The client gets the API key from the environment variable `GEMINI_API_KEY`.
-const ai = new GoogleGenAI({});
+const BACKEND_URL = "https://plantora.onrender.com";
+// http://localhost:3000
 
 export default function ChatSection() {
+  // todo misalmebis mesiji
   const [messages, setMessages] = useState([
-    { sender: "👨‍🌾 ნინო", text: "დღეს როგორ უნდა მოვრწყა?" },
-    { sender: "🌿 კახა", text: "ორ ლიტრამდე საკმარისია." },
+    {
+      sender: "🌿 plantora",
+      text: "გამარჯობა, ნებისმიერი კითხვა აგროკულტურაზე",
+    },
   ]);
   const [input, setInput] = useState("");
   const [loading, setLoading] = useState(false);
-
-  // const GEMINI_API_KEY = import.meta.env.VITE_GEMINI_API_KEY;
 
   const sendMessage = async (e) => {
     e.preventDefault();
@@ -23,36 +23,28 @@ export default function ChatSection() {
     setInput("");
     setLoading(true);
 
+    console.log(input);
+
     try {
-      const response = await ai.models.generateContent({
-        model: "gemini-2.5-flash",
-        contents: input,
+      const res = await fetch(`${BACKEND_URL}/api/chat`, {
+        method: "POST",
+        headers: { "Content-Type": "application/json" },
+        body: JSON.stringify({ message: input }),
       });
-      console.log(response.text);
+      const data = await res.json();
 
-      // const res = await fetch(
-      //   "https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash:generateContent",
-      //   {
-      //     method: "POST",
-      //     headers: {
-      //       "Content-Type": "application/json",
-      //       "x-goog-api-key": GEMINI_API_KEY,
-      //     },
-      //     body: JSON.stringify({
-      //       contents: [{ role: "user", parts: [{ text: input }] }],
-      //     }),
-      //   }
-      // );
+      console.log(data);
+      const reply = data || "❗ვერ მივიღე პასუხი.";
 
-      // const data = await res.json();
-      const reply = response.text || "❗ვერ მივიღე პასუხი.";
-
-      setMessages([...newMessages, { sender: "🌿 კახა", text: reply }]);
+      setMessages([
+        ...newMessages,
+        { sender: "🌿 plantora", text: reply.reply },
+      ]);
     } catch (error) {
       console.error("Gemini API error:", error);
       setMessages([
         ...newMessages,
-        { sender: "🌿 კახა", text: "დაფიქსირდა შეცდომა 😕" },
+        { sender: "🌿 plantora", text: "დაფიქსირდა შეცდომა 😕" },
       ]);
     } finally {
       setLoading(false);
@@ -62,14 +54,14 @@ export default function ChatSection() {
   return (
     <div className="bg-white rounded-2xl p-4 shadow-md">
       <h2 className="text-green-700 font-semibold mb-2">ჩათი</h2>
-      <div className="bg-gray-50 p-2 h-64 rounded-lg overflow-y-auto">
+      <div className="bg-gray-50 p-2 rounded-lg overflow-y-auto h-[70vh]">
         {messages.map((msg, i) => (
           <p key={i} className="text-sm text-gray-700 mb-1">
             {msg.sender}: {msg.text}
           </p>
         ))}
         {loading && (
-          <p className="text-sm text-gray-400 italic">🌿 კახა ფიქრობს...</p>
+          <p className="text-sm text-gray-400 italic">🌿 პლანტორა ფიქრობს...</p>
         )}
       </div>
 
