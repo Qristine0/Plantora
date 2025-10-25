@@ -26,11 +26,7 @@ export default function App() {
               path=""
               element={
                 <>
-                  {/* <WeatherCard />
-                  <NotificationsPanel />
-                  <PlantScanner />
-                  <MyLand />
-                  <ChatSection /> */}
+                  {/* <it */}
                   <Dashboard />
                 </>
               }

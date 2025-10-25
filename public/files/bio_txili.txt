@@ -1,0 +1,1164 @@
+﻿საქართველოს გარემოს დაცვისა და სოფლის მეურნეობის სამინისტრო სოფლის მეურნეობის სამეცნიერო­კვლევითი ცენტრი.
+
+თხილის მავნებელ­დაავადებები და მათი მართვა ბიომეურნეობაში.
+
+
+
+
+
+
+
+
+
+
+
+Hazelnut pests and diseases and their management in organic farming
+
+
+
+
+
+
+Tbilisi, 2019
+naSromi momzadebulia SoTa rusTavelis erovnuli samecni­ ero fondis fundamenturi kvlevebis fina­ nsuri mxardaWeriT (granti #FR17_581 – „ga-remosaTvis  usafrTxo,  inovaciuri  saSua-lebebiT bioTxilis warmoebis xelSewyoba“) Work  is  preparede  by  financial  support  of  Shota Rustaveli  National  Science  Foundation  of  Georgia
+(grant #FR17_581­ „Promotion of production of bio hazelnut by innovative methods safe for environment”)
+
+avtorebi: manana kereseliZe, mzia beruaSvili Authors: Manana Kereselidze, Mzia Beruashvili
+
+
+recenzenti: guram aleqsiZe, biologiis mecnierebaTa doq­ tori, profesori, saqarTvelos mecnierebaTa erovnuli da soflis meurneobis mecniereba-Ta akademiebis akademikosi
+
+Reviewer:	Guram Aleksidze, Doctor of Biological Sciences, Pro­ fessor,  Academician of Georgian National Academy of Sciences    and    Georgian    Academy    of    Agricultural Sciences
+
+
+© m. kereseliZe, m. beruaSvili, 2019
+gamomcemloba `universali~, 2019
+Tbilisi, 0186, a. politkovskaias #4,  :  5(99) 33 52 02, 5(99) 17 22 30 E-mail: universal505@ymail.com; gamomcemlobauniversali@gmail.com
+
+ISBN 978-9941-26-558-7
+
+2
+Txilis kulturaze moTxovnileba izrdeba mTel msoflioSi.  samwuxarod  saqarTveloSi  2016  wlidan mosavlianoba  sagrZnoblad  Semcirda,  misi  xarisxi Zlier gauaresda  TxilSi gavrcelebuli sxvadasxva mavnebel­daavadebebis  gamo,  gansakuTrebiT  Txilis mwarmoebel  ZiriTad regionebSi (samegrelo, guria), fermerebs SeeqmnaT aunazRaurebadi zarali. saxel­ mwifos mier gatarebuli iqna qmediTi RonisZiebebi, ris safuZvelze gaizarda mosavli, misi xarisxi. Tum-ca aRsaniSnavia, rom xSirad fermerebis mier sakarmi­ damo  nakveTebze  adgili  aqvs  qimiuri  pesticidebis araswor  SerCevas,  dozebis  TviTneburad  gazrdas, rac  iwvevs  foTlebis  sidamwvres,  nayofis  naadrev cvenas.  ukontrolod  maTi  gamoyeneba  ukiduresad abinZurebs garemos, safrTxes uqmnis mefutkreobas zemoTaRniSnul regionebSi da sxv.
+broSuraSi warmodgenilia   rogorc   Cveni   kvle-vebiT gamovlenili, ise literaturuli wyaroebidan cnobili da erTad Tavmoyrili is mavne organizmebi, romlebic dReisaTvis problemas warmoadgens Txilis baRebSi. mocemulia maTi kontrolis biologiuri sa-Sualebebis gamoyenebis SesaZleblobebi,  rac daexma-rebaT fermerebs pesticidebis gamoyenebis SezRudva-sa da biokontrolis meTodebis danergvaSi. es ki xels Seuwyobs bioTxilis warmoebis ganviTarebas, rac misi maRali saeqsporto Rirebulebis gamo   momgebiani iq-neba romgorc fermerebisaTvis, ise qveynis ekonomiki­ saTvis.
+
+3
+Txilis cxvirgrZela ­ Curculio nucum L.
+
+bioekologia.   xoWo  moSavo­yavisferia,   dafarulia monacrisfro­yviTeli   qerclebiT.   qerclebi   wina zurgze   warmoqmnian   gardigardmo   xazebs,    xolo frTebze – yviTel laqebs. matli moyviTalo ferisaa, moxrili, sxeuli dafarulia monacrisfro bewvebiT. izamTrebs niadagSi matlis  fazaSi miwisgan gakeTe-bul  parkSi.  gazafxulze 15­200C­ze  mweri  iWuprebs, aprilis meore naxevridan gamodian xoWoebi, iwyeben frenas. ikvebebian Txilis mwvane nawilebiT, xoWoebi xorTumiT RrRnian Txilis kakals, roca kani jer ki-dev rbilia, deben kvercxs rbil nayofSi. gamoCekili matlebi  ikvebebian  nayofis  SigTavsiT.  daaxloebiT ivlisis meore naxevridan matli nayofSi amTavrebs
+ganviTarebas, akeTebs xvrels, gamodis gareT, Cadis niadagSi  gamosazamTreblad.  Txilis  cxvirgrZelas weliwadSi aqvs erTi generacia.
+mavneoba:   imago  ikvebeba  Txilis  mwvane  nawilebiT, norCi foTlebiT, kvirtebiT, naskvebiT, azianebs maT. matli ikvebeba Txilis nayofis SigTavsiT.  daziane­ buli nayofi TandaTan cviva.
+brZolis RonisZiebebi: Semodgomaze Txilis baRebis gawmenda Camocvenili, dazianebuli Txilis nayofisa da  sxva  narCenebisagan.  saWeri  sartyelebis  (Zveli tomrebi, sqeli qaRaldi da sxv.) keTdeba adre gazaf-xulze (marti, aprili) xis Stambze niadagis zedapiri-
+
+4
+dan 40­50 sm­is simaRleze da kanafiT Suaze cota ze-moT magrdeba. sartyelebi isinjeba 2­3 dReSi erTxel mxolod dilis saaTebSi, vidre xoWoebi xis varjzea. mavneblebis amokrefis Semdeg sartyelebi isev ukeT-deba xeebs. Segrovili mavneblebi ki nadgurdeba ved-roSi,  romelSic  navTiani  wyalia.  biopreparatebis (mag, turingeni 5­6 l/ha) Sesxureba tardeba aprilSi, ivnissa da ivlisSi saWiroebisamebr.
+
+
+
+
+
+
+
+1	2
+
+
+
+
+
+
+3	4 1 – Txilis cxvirgrZela – zrdasruli mweri, imago
+2 – Txilis cxvirgrZelas matli
+3 – mavnebliT dazianebuli Txilis nayofebi
+4 – cxvirgrZelas matli dazianebul nayofebSi
+
+5
+aziuri farosana – Halyomorpha halys Stal.
+bioekologia.  polifagi  mweria.  ikvebeba  daaxloebiT 300­mde saxeobis mcenariT, TxiliT, xexiliT, parkosne-biT, bostneuliT, dekoratiuli mcenareebiT da sxva. zrdasruli mweri daaxloebiT 12­17mm sigrZisaa, axasia-Tebs ganieri, yavisferi, Savi, spilenZisferi, marmari-losebri teqstura, advilad gamovarCevT sxva farosa-nebisagan ulvaSebze TeTri zolebiT, winamkerdis gver-debi,  mxrebi,  gluvi,  kargad gamokveTili wvrilyavis-frad dazolva (4 wyvili) muclis kideebze. gvian Semod-gomaze zrdasruli imago gadasazamTreblad Sedis sax-lebSi, fardulebSi, tyesa da sxvadasxva daxurul siv-rceSi. gazafxulze (aprili, maisi) imagoebi gamodian ga-reT,  saxldebian  mcenareebze,  ikvebebian  da  azianeben maT. mavnebeli Sewyvilebis Semdeg TeTri feris (odnav momwvano Seferilobis) kvercxebs debs grovebad foT-lis qveda mxares (28 erTeuli erT grovaSi). 4­5 dReSi gamodian mowiTalo matlebi, romlebic fers TandaTan icvlian,  zrdasrul nimfebs aqvT zoliani fexebi da ulvaSebi. 5 asakis gavlis Semdeg, daaxloebiT 50­55 dRe-SiaRwevenzrdasrulasaks.
+dazianebis    forma:    farosana   xorTumis    meSveobiT xvrets axalSemosuli Txilis naWuWs, aTxelebs nayofis SigTavss da warmoqmnis korpisebr lpobad laqebs. nayo-fis zedapiri SeWmuxnuli da deformirebulia. Txilis naWuWis formirebis etapze ki SesaZloa Teslis kvdoma da  Txilis  adreuli  Camocvena  gamoiwvios,  mavneblis
+
+
+6
+Zlieri gavrcelebis dros mosavlis danakargebma SesaZ-loa 70%­smiaRwios.
+
+
+
+
+
+
+1	2
+
+
+
+
+
+
+
+3
+
+
+
+
+
+
+4	5 1 – aziuri farosana – imago; 2 – kvercxebi da nimfebi;
+3 – mavneblis dazianeba foTolze;
+4­ mavnebeli Txilis nayofze; 5­mavneblis nimfa
+
+7
+brZolis RonisZiebebi: meqanikuri brZola saxlis piro-bebSi (mag.: mtversasrutiT Segroveba da ganadgureba). aucilebelia daxuruli fardulebisa, mitovebuli Se-nobebis xSiri monitoringi mozamTre fazebis gamovle-nisa damaTi mospobisaTvis. mavneblis kvercxdebebisga-movlenis  SemTxvevaSi  maTi  dauyonebliv  ganadgureba
+meqanikurad. sasurvelia nimfebisa da imagoebis gamov-lenis mizniT Txilis baRebSi moxdes xeebis qveS polie-
+Tilenis safenis dageba da totebis Serxeva, maTi gamov-lenis Semdeg ki maTi meqanikuri ganadgureba. mcenaree-biundadaibertyosdiliTadre 7 saaTzedaganmeordes ori kviris Semdeg. saWiroa 2­­jeradi wamloba bioprepa-ratebiT mavneblis gamoCenisTanave nimfis fazaSi. mag., preparatebi,  romlebic  damzadebulia  soko  Beauveria bassiana­s bazaze, aseve biologiuri inseqticidi nimbe-cidini. mizanSewonilia pesticiduri aqtivobis mcena-reebis – qrizanTema, yviTeli yvavili, gvirila da sxv. dargvabaRebSi.
+aziur farosanas hyavs bunebrivi mtrebi, romelTac SeuZliaT daareguliron misi ricxovnoba. mis kver­ cxebs anadgurebs saxeobebi gvarebidan: Trissolcus, Tele­ nomus, Ooencyrtus da Ansatatus, Tumca mavneblis nimfebi da  imagoebi  iSviaTad  parazitdebian.  saqarTveloSi gamovlinda misi kvercxis parazitoidi Anastatus bifa­ sciatus, romelic SesaZloa gamoyenebuli iqnas mavneb­ lis biokontrolisaTvis. aziuri farosanas ricxov­
+
+8
+nobis daregulireba aziis qveynebSi, misi bunebrivi warmoSobis arealSi xdeba iaponuri samurai krazanas –Trissolcus japonicus saSualebiT. amerikis SeerTebuli Statebisa da evropis zogierT laboratoriaSi war­ matebiT mimdinareobs aRniSnuli da sxva parazitoi-debis gamravleba da maTze kvlevebi.
+
+aziuri farosanas bunebrivi mtrebi
+
+
+
+
+
+
+
+1	2
+
+
+
+
+
+
+3	4 1 – aziuri farosanas kvercxis paraziti
+2 – entomofagi farosanas kvercxSi
+3 – soko boveriaTi dasenianebuli farosana
+4 – aziuri farosanas daparazitianebuli kvercxebi
+
+9
+ambroziis xoWo
+bioekologia.  TxilnarSi gvxvdeba sxvadasxva saxeo­ bis ambroziis xoWoebi, (Anisandrus dispar,  Xylosandrus germanus),  romlebic morfologiuri niSnebiT gans­ xvavebulia. isini gansxvavdebian kvebis wesiTac, pir­ veli Rrmad Sedis Txilis totis gulgulSi, xolo me-ore mxolod kanis SigniTaa da amiT xels uwyobs mce-nareTa sokovani infeqciebis gavrcelebas. orive sa-xeoba polifagia da azianebs ara marto Txils, ara­ med  tyis  mcenareebis  sxvadasxva  merqnian  jiSebsac. A. dispar  mcire zomis mweria, romelsac moSavo­moya­ visfro elferi gadakravs. ZiriTadad moZraobs ho­ rizontalurad, iSviaTad vertikaluradac. igi zamT­ robs  xis  qerqSi,  debs  kvercxebs,  misgan  gamosuli matlebi   mokremisfro   Seferilobisaa,   fexebi   ar
+aqvT,  ikvebebian  gulguliT.  Semdeg  iqve  iWupreben. gazafxulze, 180C t­ze, mais­ivnisSi Wupridan xoWoebi gamodian. saxldebian sxva axalgazrda da Suaxnis mce-nareebze, iwyeben maT gamoxras, akeTeben sadede sas-vlelebs  da  deben  kvercxebs.  kvercxidan  gamosuli matlebi ar akeTeben sasvlelebs, ar ikvebebian mcena­ ris qsovilebiT, aramed soko ambroziis miceliumiT, romelic  viTardeba  xoWos  gakeTebul  sasvlelebSi
+wvenis Warbi raodenobiT gamoyofisas. matlebi moma-val gazafxulamde rCebian da asruleben ganviTare-bas imave maspinZel mcenareSi.
+
+
+10
+
+
+
+
+
+
+
+
+
+
+
+1
+
+
+
+
+
+
+
+2
+
+1 – ambroziis xoWos imago 2 – ambroziis xoWos matli
+
+
+
+
+11
+mavneoba: mweri azianebs Txilis Stambs, romelsac da-zianebis adgilas sigrZiv zolad gasdevs sxvadasxva zomis moyavisfro laqebi da qerqze SeimCneva naxvre-ti. xis tani dazianebis adgilas Ria an muqi yavisfe-ria gamosuli siTxis gamo, rasac “xis tirils” uwode-ben. xvrelebi aferxeben wvenTa moZraobas mcenareSi, ramac SesaZloa rogorc axalgazrda, ise xnovani xee-bis xmoba gamoiwvios.
+brZolis  RonisZiebebi:  dazianebuli totebis SeWra adre gazafxulze da “xafangad”gamoyeneba 2  Tvemde vadiT (mcenaris Reroebidan gamosuli xoWo daeseva moWril,  dazianebul  totebs);  Semdeg  maTi  baRidan gareT  gatana  da  ganadgureba;  eTilis  spirtiT  da wyliT  gajerebuli  entomologiuri  webovani  sar-tylebis  dakideba  totebze  xoWoebis  frenisas,  ap-ril­maisSi (alkoholi izidavs mwerebs da isini ewebe-bian sartyels. 15­20 dReSi sartyels axali webo unda waesvas); aseve dazianebul xis kanSi eTanolis spir-tis Seyvana da misi satyuarad gamoyeneba. Semdeg xe iWreba da xdeba misi gausnebovneba. morebis xis masa-lad gamoyenebis SemTxvevaSi aucilebelia maTi Ter-mulad damuSaveba, radgan mavnebeli merqanSi 18% te-nianobis drosac ki cocxlobs.
+
+
+
+
+
+12
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ambroziis xoWos dazianeba Txilis Reroebze
+
+
+13
+Txilis Savi xarabuza – Oberea linearis L.
+
+bioekologia. imago Savi ferisaa, grZeli ulvaSebiTa da yviTeli fexebiT. matli yviTeli an Ria yavisfe-ria. mdedri kvercxebs debs qerqis RriWoebSi, rom-lebic grZel Wrilebadaa warmodgenili. matlebi ga-modian daaxloebiT ivnisis TveSi da gamoxraven Re-ros jer garSemo, xolo Semdeg perpendikularulad. Semodgomis bolos matli izamTrebs momaval gazaf-xulamde,  Semdeg  kvlav  ganagrZobs  mcenaris  gamo­ xvras. meore gamozamTrebis Semdeg ki, gvian gazafxu­ lze, iwyebs daWuprebas da mais­ivnisSi Cndebian axali zrdasruli xarabuzebi. xarabuza or weliwadSi erT genercias iZleva.
+mavneoba: ziani moaqvs ZiriTadad matlis fazas. azia-nebs gamerqnebul organoebs, mcenaris ylortebs, er-Twlian nazardebs.  RrRnis guls da SigniT akeTebs sasvlel   xvrels.    dazianebuli   ylorti   wveroSi tydeba da Camoekideba. aseTi gadatexili ylorti So-ridan advili SesamCnevia.
+brZolis  RonisZiebebi:  saWiroa  gvian  Semodgomaze dazianebuli totebis gasxvla dazianebis adgilebi-dan daaxloebiT 20 sm­is moSorebiT; gasxluli nawi-lebis baRidan gareT gatana da ganadgureba; Bacillus thuringiensis  Semcveli biopreparatebiT wamloba (mag. turingeni 5­6 l/ha) tardeba imagos fazis gamoCenis-Tanave.
+
+14
+
+
+
+
+
+
+1	2
+
+
+
+
+
+
+
+
+3	4
+
+
+
+
+
+5
+
+1 – Txilis Savi xarabuzas imago; 2 – xarabuzas matli ReroSi; 3, 4, 5 – Txilis Savi xarabuzas mier gamowveuli dazianebebi
+
+
+15
+Txilis bugri ­ Myzocallis coryli Goeze
+
+bioekologia:  Ria­yviTeli  feris,  mogrZo­ovaluri formis, mcire zomis monofagi mweria, aqvs mkveTrad gamoxatuli wiTeli Tvalebi. ulvaSebi sxeulze mo-klea.  sxeuli  dafarulia  meWeWebiT,  bewvebiT.  sax-lobs foTlis qveda mxares,  mTavari ZarRvis gaswv-riv, yunwebsa da ylortebze. kvercxebs debs 2­3 wlian ylortebze  oqtomberSi.  bugrebi  adre  gazafxulze gamodian da jer kvirtebze ikvebebian, Semdeg ki fo-Tolis qveda mxares saxldebian, swrafad mravldebi-an  da  SesaZloa  mTeli  foToli  dafaron.  gvxvdeba rogorc ufrTo, ise frTiani parTenogenezuri for­ mebi. iviTareben 20­22 Taobas.
+mavneoba: dazianebuli foTlebi iWmuWneba, deformi­ rdeba da ixveva. bugrebis eqskrementebze saxldebian siSavis gamomwvevi sokoebi.
+brZolis RonisZiebebi: Txilis bugrebis ricxovnoba SeuZliaT  daareguliron  sasargeblo  mwerebma,  maT Soris Wiamaiebma. rekomendirebulia mdeloebis yva­ vilovani mcenareebis moSeneba, rac xels uwyobs maT gamravlebas;  adre  gazafxulze  SeiZleba  parafinis mineraluri zeTis – eko oil spreis 2%­iani xsnaris gamoyeneba(18­24l/ha   xarjvis   normiT),    vegetaciis dros ki wamloba biopreparatebiT, mag. fitovermiT 400 ml/100 l wyalze.
+
+
+16
+
+
+
+
+
+
+
+
+
+1	2
+
+
+
+
+
+
+3	4
+
+1 – Txilis bugri – zrdasruli mweri
+2 – Txilis bugrebi foTlis ZarRvebTan 3 – bugrebi Txilis foTolze
+4 – mavneblis mier gamowveuli dazianebebi foTolze
+
+
+
+
+
+17
+amerikuli TeTri pepela ­ Hyphantria cunea Drury
+bioekologia: TeTri feris mweria, polifagia, ikve-beba 300­ze meti saxeobis mcenariT. debs didi raode-nobiT kvercxs foTlis qveda mxares, romelic dafa-rulia qeCiT. kvercxidan gamosuli matlebi dafaru-lia grZeli bewvebiT. isini 45­50 dRis manZilze 7­jer icvlian kans. Semdeg iWupreben sxvadasxva TavSesaf-rebSi: xis gamxmari qerqis qveS, Stambis, totebis qer-qis  napralebSi,  Camocvenil  foTlebSi,qvebis  qveS. mwers  weliwadSi  aqvs  ori  generacia.  meore  Taobis matlebi amTavreben ganviTarebas seqtembris bolos da midian TavSesafrebSi dasaWupreblad.
+mavneoba: matlebi iwveven foTlis skeletacias, Sem­ deg ki foTlis firfitas mTlianad Wamen. isini did koloniebad cxovroben foTlebs axveven ablabudis qselSi, rac xeze advili SesamCnevia.
+brZolis RonisZiebebi: saqarTveloSi gvxvdeba ameriku-li TeTri pepelas ramdenime bunebrivi mteri, mag. Cveu-lebrivi oqroTvala (Chrysoperla carnea Steph), mtacebeli obobebi da WianWvelebi, agreTve krazanebi, Coqelebi; paraziti  iqnevmonidebi  da  buzebis  zogierTi  ojaxi (Tachinidae); agreTve CineTidan introducirebuli Wup-ris paraziti Chouioia cunea. frinvelebidan – beRurebi. saWiroa  ablabudaSi  gaxveuli  totebis  maqsimaluri raodenobiT SeWra, gasxvla, dawva; dedatotebis Camo­ fxeka; xeebisqveSniadagisRrmadSemobarva; xeebzesaWe-ri sartylebis gakeTeba; peplis frenis vadebis dasad-genad iyeneben feromonian sqesmWerebs (5 cali 1 ha­ze)
+
+18
+an qarxnuli wesiT damzadebuli sinaTlis damWerebs (5 cali 1 ha­ze). dafiqsirebuli peplebi savaraudos xdis mavneblis matlis gamoCenas 10 dRian vadaSi. Tu am mwe-ris winaaRmdeg brZolis RonisZieba saerTod ar Catar-deba ramdenime wlis ganmavlobaSi, mcenare gaxmeba. ame-rikuli TeTri pepelas winaaRmdeg matlis fazaSi gamo-iyeneba biopreparatebi. mag. lepidocidi 1kg/ha, bikoli 5kg/ha, dipeli 1,2­1,5 l/ha, sonit­k 3­4.5 kg/ha, nimacali 3l/ha, spintori 0,2­0,3 l/hadasxv.
+
+
+
+
+
+1	2
+
+
+
+
+
+
+3	4 1 – amerikuli TeTri pepelas imago da kvercxebi
+2 – amerikuli TeTri pepelas Wupri
+3 – amerikuli TeTri pepelas matlebi da maT mier gamowveu-li dazianebebi foTolze
+4 – amerikuli TeTri pepelas qselSi gaxveuli foTlebi da ylortebi
+
+19
+zamTris mzomela – Operophtera brumata L. bioekologia:  mdedr pepelas kargad ganviTarebuli frTebi aqvs, Seferiloba moyviTalo–ruxia. mamr pe-pelas frTebi ganuviTarebelia, fexebi ki kargad gan-viTarebuli.  izamTrebs  kvercxis  fazaSi  xis  qerqis qveS, kvirtis siaxloves gancalkavebiT an grovebad. gazafxulze, dayvavilebamde Cndebian matlebi.  sxva peplebis   matlebisgan   gansxvavebiT,   romlebsac   8 wyvili fexi aqvT, mzomelas mxolod 5 wyvili gaaCnia, isini iwyeben norCi foTlebiT, kvirtebiTa da yvavi­ lebiT kvebas. 4 kviris Semdeg matlebi Cadian niadagSi da miwis siRrmeSi (13–15 sm) iWupreben. Wupridan gamo-suli pepela 350­mde kvercxs debs.
+mavneoba: matlebi azianeben foTlebs da axalgazrda
+totebs. dazianeba iwyeba foTlis kididan. didi xno­ vanebis matli mTlianad Wams foTols da rCeba mxo­ lod ZarRvebi. foTolze didi zomis eqskrementebi rCeba, romelzec saxldebian saprofituli sokoebi, foToli lpeba.
+brZolis  RonisZiebebi:  mavneblis  bolo  asakis  mat-lebs   azianeben   taqinebi   Cyzenis albicans.   agreTve, kvercxis	paraziti	triqograma	(Trichogramma evanescens West.). misi mdedrebi kvercxebs deben mas-pinZlis kvercxebze. matlebi kvercxis SigTavsiT ik-vebebian. Semdeg kvercxSive iWuprebs da mdedrebi ga-mofrenisTanave  didi  raodenobiT  kvercxebs  deben. zamTris mzomelas ricxovnobis regulireba SeuZlia
+
+20
+zogierT  fitofagsac.  mag.  Miridae,  Macrolophus  nubilis H.S, romelic ikvebeba mzomelas kvercxiT da matle-biT. entomofagebis mozidvas SeuZlia mavneblis ric-xovnobis Semcireba, amitom Txilis rigebs Soris mi-zanSewonilia Taflovani mcenareebis SeTesva. biopreparatebidan SesaZloa gamoiyenebuli iqnes di-peli 1,5 l/ha, lepidini 5­6 l/ha an sxv.
+meqanikuri RonisZiebebidan mniSvnelovania niadagis gasufTaveba narCenebisgan da niadagis zeda fenebis damuSaveba.
+
+
+
+
+
+1	2
+
+
+
+
+
+
+3	4 1 – zamTris mzomelas imago
+2 – zamTris mzomelas matli foTolze kvebisas 3 – matlis mier gamowveuli dazianeba foTolze 4 – mavneblis Wuprebi niadagSi
+
+21
+murynis foTolWamia – Agelastica alni L.
+
+bioekologia:   mavnebeli  gavrcelebulia  dasavleT saqarTveloSi. Txilis garda azianebs, agreTve, mur­ yans, arys da tirifs. xoWo ovaluri formisaa, moSavo feris. sigrZiT 6­7 mm­s aRwevs. igi zamTrobs qerqis qveS, Camocvenil foTlebSi. mweri adre gazafxulze iwyebs  frenas  (aprilidan  seqtembramde).  kvercxebs debs foTlebze jguf­jgufad. jgufebad cxovreben axladgamoCekili matlebic, romlebic baci ferisaa, Tavi da fexebi Savi aqvT. zrdis dasrulebisas isini gancalkevdebian da cal­calke Wuprdebian niadagSi, mkvdar safarSi an qerqis napralebSi. weliwadSi 2 Ta-obas iZleva.
+mavneoba: xoWoebi RrRnian axalgazrda ylortebs da araswori naxvretebis saxiT amoWamen foTlebs,  ris Sedegadac foTlebi icxrileba (waagavs klasteros­ porozis simptomebs).
+brZolis RonisZiebebi: migraciis periodSi Beauveria bassiana­s bazaze damzadebuli biopreparatebis gamo-yeneba.
+
+
+
+
+
+
+
+22
+
+
+
+
+
+
+
+
+
+1	2
+
+
+
+
+
+
+3	4
+
+1 – murynis foTolWamias imago 2 – kvercxisa da matlis fazebi
+3, 4 – murynisfoTolWamiasmierdazianebuliTxilisfoTlebi
+
+
+
+
+
+23
+Txilis kvirtis tkipa – Phytoptus avellanae Nal.
+
+bioekologia.  miekuTvneba oTxfexa tkipebis jgufs. misi   danaxva   SeuriaRebeli   TvaliT   SeuZlebelia, Tumca misi dazianeba advilad SesamCnevia. zrdasru-li tkipa wagrZelebulia, TeTri feris. tkipa Semod-gomaze Sedis axalgazrda formirebul kvirtSi da iq
+izamTrebs. gazafxulze, rodesac temperatura miaR­ wevs daaxloebiT 12­150 iwyeba maTi migracia daziane­ buli kvirtebidan foTlebsa da ylortebze, Semdeg ki  saxldebian  momavali  wlis  kvirtebSi,  ikvebebian, izrdebian da uRldebian da mcenareze rCebian gazaf-
+xulamde, iqve izamTreben. savegetacio periodSi vi­ Tardeba 6­7 Taoba.
+mavneoba: azianebs safoTle da sayvavile kvirtebs. kve-bis  Sedegad  warmoiqmneba  galis  msgavsi  Rududoebi, romlebic jer mwvane ferisaa,  Semdeg yviTldeba,  ga-zafxulze  mowiTalo  Sindisfer  Seferilobas  Rebu­ lobs. dazianebuli kvirtebi deformirdeba da gafur­ Cqnulyvavilsemsgavseba. maTizomasaRkvitebTanSeda-rebiT didia. dazianebuli deformirebuli kvirti na-yofs aRar iviTarebs,  xmeba,  cviva an gvaZlevs maxinj ylorts, romelzedac muxlTaSorisi dagrZelebulia, foTlebi ki danaoWebuli, maRali dasaxlebis SemTxve-vaSiSesaZlebeliamosavlis 70%­mdedakargvac.
+
+
+24
+
+
+
+
+
+
+
+
+
+1
+
+
+
+
+
+
+
+
+
+2
+
+1 – Txilis kvirtis tkipebi kvirtSi
+2 – tkipiT deformirebuli, dazianebuli Txilis kvirtebi
+
+
+
+
+25
+brZolis  RonisZiebebi:  meqaniuri  RonisZiebebis  ga­ tareba aris Zalian efeqturi kvirtis tkipis winaaR­ mdeg, gansakuTrebiT oqtombridan adre gazafxulam­ de  (aprili)   misgan  deformirebuli,   gawiTlebuli kvirtebis moZieba advilia, saWiroa maTi Secla, Seg-roveba xeliT da dawva. sami­oTxi foTlis gamoCeni-sas, yvavilobamde, maSin roca dazianebuli kvirtebi-dan tkipebis masiuri gamosvla daiwyeba (tkipebis mo-nitoringi SesaZlebelia totebze damagrebuli or-mag webovan lentebze migrirebuli tkipebis daWeriT) bioakaricidebis (mag. gogirdis Semcveli preparate-bis) gamoyeneba, meore wamloba saWiroa Catardes 8­10 dRiani  intervaliT.  aseve  saWiroebis  SemTxvevaSi  – ivlis­agvistoSi, sanam tkipebi Riad cxovroben.
+
+
+
+
+
+
+
+
+
+
+
+
+
+26
+
+
+
+
+
+
+3
+
+
+
+
+
+
+
+4
+
+
+
+
+
+
+
+5
+3, 4, 5 – tkipiT deformirebuli, dazianebuli Txilis kvirtebi
+
+
+27
+Txilis nacari – 1. Phyllactinia corylia Karst (Phyllactinia gutata Kar); 2. Erysiphe corylacearum U. Braun & S. Takam
+
+simptomebi:  avaddeba foTlebi, ylortebi da mwvane nayofebi. foTlebze,  gansakuTrebiT  qveda  mxridan viTardeba  Txeli  nacrisferi  fifqi,  fifqi  Cndeba sxva daavadebul organoebzec. daavadeba iwyeba maisi­ dan da grZeldeba gvian  Semodgomamde.  mogvianebiT fifqze moyviTalo da Savi wertilebi viTardeba. gamomwvevi: iwvevs CanTiani soko. aqvs rogorc konidi­ aluri (hifisebur konidiaTmtarebze Zewkvebad asxmuli momrgvalo­ovaluri konidiumebi), ise CanTiani nayofi-anoba (fifqze warmoqmnili wertilebi – kleistokarpi-umebi CanTebiT da askosporebiT). izamTrebs Camocve-nil foTlebSi kleistokarpiumebis saxiT. gazafxulze kiaskosporebiganaaxlebeninfeqcias.
+mavneoba:    foTlis   firfita   yviTldeba   da   cviva. ylortis muxlTSorisi Semoklebulia, wveroebi xmeba. axladganviTarebuli nayofebi ifareba fifqiT, gamoS-reba, veRar viTardeba da xmeba. mozrdil nayofze ki mniSvnelovani ziani veRar moaqvs. brZolis RonisZie-bebi: Zlier daavadebuli ylortebis mocileba; Camoc-venili foTlebis Segroveba da ganadgureba; gogirdis Semcveli preparatebis (Tiovit­jeti 5­6  kg/ha, kumu-lusis 0,5%­iani xsnari an sxv.) Sesxureba.
+
+28
+
+
+
+
+
+1
+
+
+
+
+
+
+
+2	3
+
+
+
+
+
+
+4	5
+
+1, 2 – Txilis nacriT daavadebuli foTlebi 3 – nacriT daavadebuli nayofebi
+4, 5 – Txilis nacris gamomwvevi sokoebis CanTiani nayofianoba
+
+
+
+29
+xexilis Reros Cveulebrivi kibo – Nectria ditissima Tul.
+simptomebi: aavadebs axalgazrda, ZiriTadad 6 wlam-de asakis mcenareebis totebs maTze Cndeba kibos ti-piuri  simptomi  Wrilobis  saxiT,  romlis  napirebi amoburculia,  centri  ki  Caweuli.  Wriloba  yovel wels  axal­axali  miceliumiT  ifareba  da  Sedegad korZebi warmoiqmneba.
+gamomwvevi:  gamomwvev  sokos  aqvs  rogorc  CanTiani, ise konidialuri nayofianoba. konidiumebi 4 ujredi­ ania, mogrZo formis, romlebic hifisebur konidiaT­ mtarebzea ganlagebuli, xolo CanTebi orujrediani askosporebiT periteciumebSi viTardebian.  sporebi vrceldeba qarisa da wvimis saSualebiT. sainkubacio periodi 12­15 Tvea.
+mavneoba:  droTa ganmavlobaSi daavadebuli totebi, Semdeg ki mTeli mcenarec xmeba.
+brZolis RonisZiebebi:  daavadebis gavrceleba Sesa­ Zlebelia xidan xeze baRis sekatoriT. amitom mizan-Sewonilia sekatorebis dezinfeqcia 70  %­iani spir-tis xsnariT;  simptomebis aRmoCenisTanave,  daavade-buli totebis gasxvla; spilenZis Semcveli biofun-gicidebis Sesxureba gazafxulze, dakvirtvamde (mar-ti, aprili, maisis dasawyisi) da amis Semdeg yovel 10­ 14 dReSi erTxel saWiroebisamebr.
+
+
+30
+
+
+
+
+
+
+
+
+
+
+
+1
+
+
+
+
+
+
+
+
+
+2 1 – kibos simptomi Txilis Reroze
+2 – kibos gamomwvevis ganviTarebis cikli
+
+
+
+31
+Txilis fesvis sidample – Fusarium sp.
+
+simptomebi:  gamomwvevi  polifagi  sokoa,  romelsac garda Txilisa, SeuZlia nebismieri erTwlovani kul­ turis da mravalwlovanTa aRmonacenebis daavadeba. daavadebul mcenareTa fesvebi yavisferdeba da lpe-ba.  turgoris dacemis gamo foTlebi yviTldeba da Wkneba. mcenare xmeba.
+gamomwvevi:  soko  iviTarebs  moTeTro­movardisfro fifqs da mikro da makro konidiumebs. mikrokonidiu­ mebi erTujrediania, uferuli, momrgvalo­ovaluri formis, xolo makrokonidiumebi naxevarmTvarisebri formisaa da ramdenime tixars warmoqmnis.
+mavneoba: daavadebis gamomwvevi mcenareSi iWreba da-zianebuli fesvebidan an fesvis yelidan da TandaTan zemoT miiwevs. WurWlebi dacobilia da wylis moZra-obas xeli eSleba. fesvebi lpeba da sabolood mcena-re xmeba.
+brZolis  RonisZiebebi:  daavadebuli  egzemplarebis amoZirkva.   antagonisti  sokos  Trichoderma­s  bazaze damzadebuli biopreparatebis gamoyeneba (mag. bioka­ tena 5­6  l/ha);  fitolavini 200  ml/100  l wyalze  da sxv.   rekomendirebulia mcenaris imunitetis gazrda kompleqsuri organuli sasuqebiT.
+
+
+
+
+32
+
+
+
+
+
+
+
+
+1	2
+
+
+
+
+
+
+
+
+
+
+
+3
+
+1, 2 – soko Fusarium­iT gamowveuli fesvis sidample Txilze 3 – soko Fusarium­is sporebi
+
+
+
+33
+Txilis nayofebis pirisferi sidample (Txilis obi) – Trichotecium roseum Fr.
+
+simptomebi:   Txilis   nayofze   movardisfro   fifqi Cndeba da nayofi mware gemos Rebulobs. daavadebas xels uwyobs Senaxvis araswori pirobebi.
+
+gamomwvevi: iwvevs CanTiani soko. Trichotecium­i misi ko-nidialuri stadiaa, romelic iviTarebs 2 ujredian sporebs. Tavdapirvelad iviTarebs TeTr miceliums, romelsac  mogvianebiT  movardisfro  elferi  dah-kravs.
+mavneoba:  ganixileba  meorad  parazitad.  iwvevs  ro­ gorc Txilis, ise 200­mde sxva kulturis nayofebis lpobas. garda amisa, awarmoebs meoradi metabolite-bis farTo speqtrs, maT Soris mikotoqsinebs, romle-bic arasasurvelia adamianis janmrTelobisaTvis. brZolis RonisZiebebi: mniSvnelovania kargi aeracia, rac xels uSlis gamomwvevi sokos ganviTarebas. aseve Tavidan unda aviciloT Txilis meqanikuri dazianeba.
+
+
+
+
+
+
+
+
+34
+
+
+
+
+
+
+
+
+
+1	2
+
+
+
+
+
+
+
+
+3	4
+
+1, 2 – trixoteciumi Txilis nayofebze 3 – soko Trichothecium­is miceliumi
+4 – soko Trichothecium­is sporebi
+
+
+
+
+35
+Txilis alternariozi – Alternaria coryli  Israf.
+
+simptomebi: avaddeba foTlebi, ylortebi da nayofe-bi. foTlis firfitaze viTardeba wvrili, uferuli laqebi, romlebic TandaTan izrdeba da Savdeba. Zar-Rvebis daavadebisas firfita deformacias ganicdis, yviTldeba da cviva. Tu ar Camocvivda, maSin laqebi iSleba da foTlebi facxavdeba.  ylortebsa da to-tebzec CaRrmavebuli laqebia. daavadeba nayofis na-WuWsac  aRwevs  da  mis  gulSi  iWreba,  nayofi  Wkneba, Savdeba da cviva.  avadmyofobis xelSemwyob pirobe-bad  iTvleba  xSiri  naleqebi,  gansakuTrebiT  gazaf-xulze, rodesac kvirtebi iSleba.
+gamomwvevi: sokos miceliumi Tavdapirvelad moTeT-roa, mere ki moSavo elfers Rebulobs. aqvs konidia-luri nayofianoba. sporebi yavisferia, mravalujre-diani, yumbariseburi formiT.
+mavneoba: fotosinTezis intensivoba qveiTdeba, nayo-fi lpeba da mosavlianoba mcirdeba.
+brZolis RonisZiebebi: agroteqnikuri RonisZiebebis sworad  da  droulad  Catareba;  adre  gazafxulze, kvirtebis  gaSlamde  e.w.  “cisferi  wamloba”  3%­iani bordouli siTxiT; rekomendirebulia biopreparati fitolavini 200 ml/100 l wyalze  an  sxva  Sesabamisi biopreparatebi.
+
+
+
+36
+
+
+
+
+
+
+
+
+
+
+
+1
+
+
+
+
+
+
+
+
+2	3
+
+1 – alternariiT daavadebuli Txili; 2 – daavadebuli foToli
+3 – alternariis sporebi
+
+
+37
+anTraqnozi (yavisferi sidample ) – Gloesporium coryli Desm. Sacc. da Colletotrichum acutatum J.H.
+
+simptomebi: daavadebul foTlebze Cndeba muqi yavis-feri an mowiTalo­yavisferi uformo laqebi. wvimian amindSi laqaze qveda mxridan viTardeba Savi werti-lebi. Zlieri daavadebisas foTlis qsovilebi iSleba da mxolod ZarRvebi rCeba. totebze daavadeba wveri-dan iwyeba da iseTive laqebi Cndeba,  rogorc foT-lebzea. nayofi avaddeba ganviTarebis yvela period-Si da yavisferi sidample viTardeba.
+gamomwvevi: warmoqmnis konidialur nayofianobas sa-recelis saxiT. sporebi 1 ujrediania, uferuli. mavneoba: adreul periodSi daavadebuli nayofi de-formirdeba, iWmuWneba da cviva. guli lpeba, aqvs mwa-re gemo da arasasiamovno suni. mosavlis raodenoba da xarisxi mcirdeba.
+brZolis RonisZiebebi: agroteqnikuri RonisZiebebis sworad da droulad Catareba; Rero­totebis gasuf-Taveba, gasxvla, anasxlavis gamotana da ganadgureba; adre gazafxulze, kvirtebis gaSlamde 3%­iani, xolo vegetaciis  periodSi  1%­iani  bordouli  siTxis  (an spilenZis Semcveli sxva biofungicidebis) gamoyene-ba. rekomendirebulia, agreTve, biopreparati fito­ lavini 200 ml/100 l wyalze  an  sxva  Sesabamisi  bio-preparatebi.
+
+
+38
+
+
+
+
+
+
+1
+
+
+
+
+
+
+2
+
+
+
+
+
+
+
+3	4 1 – anTraqnozi Txilis foTlebze
+2 – anTraqnozi Txilis nayofebze
+3, 4 – soko Colletotrichum­isa da soko Gloeosporium­is sporebi
+
+
+39
+siSavis gamomwvevi sokoebi Txilze (kapnodiumi) – Capnodium sp.
+
+simptomebi: aavadebs foTlebs, ylortebs, nayofebs. daavadebul organoebze Cndeba moSavo feris fifqi. daavadeba  viTardeba  maRali  tenianobis  pirobebSi, agreTve SeiZleba dasaxldes mavne mwerebis mier ga-moyofil eqskrementebze.
+
+gamomwvevi: aqvs konidialuri nayofianoba. iviTarebs Savi feris miceliums da yavisfer sporebs.
+mavneoba:  fotosinTezis  intensivoba  mcirdeba.  in-tensiuri dazianebis SemTxvevaSi, nivTierebaTa cvla irRveva da mcenare knindeba. mosavlis xarisxi uares-deba.
+brZolis RonisZiebebi: agroteqnikuri RonisZiebebis sworad da droulad Catareba; organul meurneobaSi daSvebuli spilenZis Semcveli araorganuli fungi-cidebis gamoyeneba.
+
+
+
+
+
+
+
+
+40
+
+
+
+
+
+
+
+
+
+
+1
+
+
+
+
+
+
+
+
+2
+
+1, 2 – siSavis gamomwvevi sokoebi Txilis foTlebze
+
+
+
+
+
+41
+nayofebis nacrisferi sidample – Botrytis cinerea Pers.
+simptomebi: foTolze Cndeba muqi yavisferi sxvada­ sxva zomisa da formis laqebi, romlebic erTdeba da firfitis did nawils ikavebs. foTlebi nacrisfer­ deba, Wkneba da cviva. ylortebs laqebi sigrZeze gas-devs da Semorkalavs maT. ylortis zeda nawili xmeba. naWuWis gamerqnebamde nayofze yavisferi sveli la-qebi viTardeba. nayofi deformirdeba, Wkneba da cvi-va. Semosuli nayofis daavadebisas guli mwardeba da lpeba. yvela daavadebul organoze laqebi nacrisfe-ri fifqiT ifareba. izamTrebs Camocvenil foTleb-ze.
+gamomwvevi: iviTarebs konidialur nayofianobas – ma-Ral nacrisfer miceliums xiseburad datotvili ko­ nidiaTmtarebiT da ovaluri 1 ujrediani konidios­ porebiT.
+mavneoba:  azianebs Txilis TiTqmis yvela jiSs. Sesa­ Zloa,  daavaddes foTlebis 25­30%  da nayofebis 20­ 28%. Warbi tenianobisas nayofSi grovdeba mavne niv-Tierebebi – mikotoqsinebi. maT Soris yvelaze kance-rogenulia aflatoqsini B.
+brZolis RonisZiebebi: agroteqnikuri RonisZiebebis sworad da droulad Catareba; organul meurneobaSi daSvebuli spilenZis Semcveli araorganuli fungi-cidebis gamoyeneba.
+
+42
+
+
+
+
+
+
+
+
+
+1
+
+
+
+
+
+
+
+
+
+2
+
+1  – nacrisferi sidample Txilis nayofebze
+2  – nacrisferi sidamplis gamomwvevi sokos nayofianoba
+
+
+
+
+43
+nacrisferi laqianoba Txilze – Pestaloiopsis sp.
+
+simptomebi: aavadebs Txilis foTlebs, ylortebsa da nayofebs. foTlebze daavadeba vlindeba mozrdili, 0.5­1 sm diametris muqi yavisferi nekrozuli laqebis saxiT, msgavsi laqebi zogjer gvxvdeba ylortebzec, xolo nayofebi lpeba. maTi naWuWi ferSecvlili da gamuqebulia, xolo zemodan dafarulia paTogeni so-kos moSavo feris nayofianobiT.
+gamomwvevi: iviTarebs moTeTro feris fifqs da aqvs konidialuri nayofianoba. igi didi raodenobiT war-moqmnis konidiosporebs, romelTa zoma 16.49−26.87 × 5.01−8.83 μm­s aRwevs. sporebi tipiuria da Sedgeba 5 ujredisagan, romelTagan pirveli da bolo uferu-lia,  xolo Sua sami ujredi yavisfradaa Seferili. Tavze sami uferuli Zafi aqvs ganviTarebuli, qveda bolo ujredze ki mokle uferuli fexia warmoqmni-li.
+mavneoba: nayofi lpeba, mosavlianoba mcirdeba. brZolis RonisZiebebi: agroteqnikuri RonisZiebebis sworad da droulad Catareba; organul meurneobaSi daSvebuli spilenZis Semcveli araorganuli fungi-cidebis gamoyeneba. rekomendirebulia biopreparati fitolavini 200 ml/100 l wyalze  an  sxva  Sesabamisi biopreparatebi.
+
+
+44
+
+
+
+
+
+
+
+1	2
+
+
+
+
+
+
+3
+
+
+
+
+
+
+
+4	5
+
+1, 2 – nacrisferi laqianoba Txilis foTlebze 3, 4 – nacrisferi laqianoba Txilis nayofebze
+5, 6 – nacrisferi laqianobis gamomwvevi sokos sporebi
+
+
+45
+fomofsisi – Phomopsis sp.
+
+simptomebi:  aavadebs foTlebs,  ylortebsa da nayo­ febs.  daavadebul  organoebze  Cndeba  monacrisfro mura feris laqebi. laqis adgili nekrozirdeba, fo­ Toli yviTldeba,  xmeba da cviva.  ylortebi droTa gamnavlobaSi xmeba, xolo nayofi lpeba. ylortis da-avadebas Tu meqanikuri dazianebac daerTo, maSin ki-bosebri warmonaqmni viTardeba. totebis xmoba wveri-dan iwyeba.
+gamomwvevi: warmoqmnis konidialur nayofianobas. vi-Tardeba TeTri feris fifqi 1 ujrediani, uferuli, mogrZo­ovaluri konidiosporebiT. daavadebis xel­ Semwyobi pirobebia: setyva, Warbi tenianoba, meqaniku-rad dazianebuli adgilebi.
+mavneoba: mosavlis raodenoba da xarisxi mcirdeba. brZolis RonisZiebebi: karg Sedegs iZleva organul meurneobaSi daSvebuli spilenZis Semcveli fungici-debis  gamoyeneba;   rekomendirebulia  biopreparati fitolavini 200 ml/100 l wyalze  an  sxva  Sesabamisi biopreparatebi.
+
+
+
+
+
+
+46
+
+
+
+
+
+
+
+
+
+
+1
+
+
+
+
+
+
+
+2
+
+1  – fomopsisi Txilze
+2  – soko fomopsis nayofianoba
+
+
+
+
+47
+Txilis nayofebis fuzariozi – Fusarium sp.
+
+simptomebi:  aavadebs  Txilis  nayofebs,  romlebzec viTardeba moTeTro movardisfro fifqi da nayofi lpeba.
+
+gamomwvevi: iviTarebs moTeTro­movardisfro fifqs mikro da makro konidiumebiT. mikrokonidiumebi er-Tujrediania,  uferuli,  momrgvalo­ovaluri  for­ mis,    xolo    makrokonidiumebi    naxevarmTvarisebri formisaa da ramdenime tixari aqvs.
+
+mavneoba:  gansakuTrebiT  didi  ziani  moaqvs  Txilis arasworad Srobisa da Senaxvis pirobebSi. lpobis Se-degad mosavlis danakargebi sakmaod mniSvnelovania. brZolis RonisZiebebi: aucilebelia nargavebis kar-gi aeracia;  meqanikuri dazianebis  Tavidan  acileba; nayofis sworad Sroba da Senaxva; vegetaciis period-Si agroteqnikuri RonisZiebebis sworad da droulad Catareba  da  organul  meurneobaSi  daSvebuli  spi-lenZis Semcveli araorganuli fungicidebis gamoye-neba.
+
+
+
+
+
+48
+
+
+
+
+
+
+
+
+
+
+
+
+1
+
+
+
+
+
+
+
+
+2
+
+1. – fuzariumiT daavadebuli nayofi
+2. – fuzariumis sporebi Txilis nayofidan
+
+
+49
+Txilis nayofis daavadebebi Senaxvis pirobebSi
+
+Txilis nayofis araswori Srobisa da Senaxvis piro­ bebSi SesaZloa moxdes saRi Txilis sokovani paToge-nebiT daavadeba,  daobeba da lpoba.  Tavdapirvelad obi nayofis zedapirze viTardeba, magram SesaZlebe-lia SigniTac SeaRwios. obis sokoebis cxovelmoqme-debis Sedegia mikotoqsinebi. TxilSi aRniSnulia af-latoqsinis  B1,  B2,  G1,G2  formebi,  magram  yvelaze
+cnobili da saxifaToa B1 forma, romelic kancero-genulia  da  Zlier  mdgradia  (2000–ze  damuSavebis drosac ki aqtivobas ar kargavs). produqcia, romel-Sic mikotoqsinebi da maT Soris aflatoqsini dasaS-
+veb normaze metia, ganadgurebas eqvemdebareba. profilaqtika:  saWiroa Txilis Srobisa da Senaxvis pirobebis dacva. mosavlis aReba unda moxdes maSin, roca nayofis tenianoba 20%­s miaRwevs (saadreo ji-Sebi – Sua ivlisidan, sagviano jiSebi – seqtembris da-sawyisidan). jiSebi, romlebsac ar axasiaTebs CenCo-dan Txilis advilad gacla, 3 dRiT grovebad Tavsde-ba gadaxurul SenobaSi da xSirad ureven, rom ar Ca-xurdes da CaSavdes. am dros midis fermentacia, Cen-Co rbildeba, advilad scildeba nayofs da sruldeba simwife. gamSrali nayofi ewyoba Stabelebad an Seina-xeba yrilis saxiT xis iatakze 6­7% tenianobis da kar-gi aeraciis mqone SenobaSi.
+
+
+50
+
+
+
+
+
+
+
+
+1
+
+
+
+
+
+
+
+
+
+
+
+
+2
+
+1­ obi Txilis nayofebze 2 – obis sokoebi
+
+
+51
+baqteriuli kibo ­ Pseudomonas syringae pv. avellanae Van. Hall
+
+simptomebi: daavadebuli foToli qlorozuli xdeba da Wkneba, adgili aqvs aseve yvavilebis Wknobasa da nekrozs. totebze qerqi mowiTalo­yavisfer iers Re-bulobs, fesvebi nekrozirdeba da mcenare xmeba. gamomwvevi: iwvevs Pseudomonas gvaris baqteria.
+
+mavneoba: mcenare knindeba da xmeba.
+brZolis RonisZiebebi: agroteqnikuri RonisZiebebis sworad  da  droulad  Catareba.  daavadebuli  egzem­ plarebis amoZirkva. sertificirebuli saRi sanerge masalis gamoyeneba. organul meurneobaSi daSvebuli spilenZis  Semcveli araorganuli fungicidebis  ga-moyeneba,  agreTve  rekomendirebulia  biopreparati fitolavini 200 ml/100 l wyalze  an  biomeurneobaSi daSvebuli sxva Sesabamisi preparatebi.
+
+
+
+
+
+
+
+
+
+52
+
+
+
+
+
+
+
+
+
+1
+
+
+
+
+
+
+
+
+
+
+
+2
+
+1, 2 – baqteriuli kibos simptomi Txilis Reroebze
+
+
+
+53
+baqteriuli sidamwvre ­ Xanthomonas arboricola Vaut. pv. Corylina
+
+simptomebi: foTolze Cndeba teniani nekrozuli Caz-neqili laqebi. nayofzec Jangisferi laqebis warmoq-mnas aqvs adgili. totebze qerqi fermkrTaldeba da ylortebi SiSvldeba.
+
+gamomwvevi:  iwvevs baqteria,  romelic sakarantinod iTvleba saqarTveloSi.
+
+mavneoba:  mosavlis  xarisxis  uaresdeba.  droTa gan-mavlobaSi mcenare sustdeba da xmeba.
+brZolis   RonisZiebebi:   sakarantino   RonisZiebebis gatareba.  agroteqnikuri  RonisZiebebis  sworad  da droulad Catareba. daavadebuli egzemplarebis amo­ Zirkva. sertificirebuli saRi sanerge masalis gamo­ yeneba.  organul  meurneobaSi  daSvebuli  spilenZis Semcveli araorganuli fungicidebis gamoyeneba, ag­ reTve rekomendirebulia biopreparati fitolavini 200 ml/100 l wyalze an sxva Sesabamisi biopreparate-bi.
+
+
+
+
+
+
+54
+
+
+
+
+
+
+1	2
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+3 1 – baqteriuli sidamwvre Txilis nayofebze
+2, 3 – baqteriuli sidamwvre Txilis foTlebsa da ylortebze
+
+
+
+55
+Txilis rgollaqianoba
+
+simptomebi: Txilis foTlebze viTardeba Ria yviTe-li feris rgolebi, romlebic mogvianebiT nekrozir­ deba. foTlebi mcire zomisaa da deformirdeba. ad-gili aqvs atrofias, mcenare zrdaSi CamorCeba.
+
+gamomwvevi: iwvevs Apple chlorotic leaf spot virus­i (ApMV), SeiZleba  gamoiwvios  agreTve  Prunus  necrotic  ringspot virus – mac (PNRSV) .
+
+mavneoba: fotosinTezis intensivoba mcirdeba. brZolis RonisZiebebi: aucilebelia agroteqnikuri RonisZiebebis sworad da droulad Catareba; daava-debuli egzemplarebis amoZirkva; sertificirebuli saRi sanerge masalis gamoyeneba.
+
+
+
+
+
+
+
+
+
+
+
+
+56
+
+
+
+
+
+
+
+
+
+
+
+1
+
+
+
+
+
+
+
+
+
+
+2	3
+
+1, 2 – rgollaqianoba Txilis foTlebze
+
+
+
+57
+Txilis mozaika
+
+simptomebi: Txilis foTlebze viTardeba Ria yviTe-li feris laqebi da adgili aqvs mozaikebisTvis dama-xasiaTebel aWrelebas.
+
+gamomwvevi: rgollaqianobis msgavsad mis gamomwveva­ dac Apple chlorotic leaf spot virus­i iTvleba.
+
+mavneoba:  fotosinTezis intensivoba mniSvnelovnad mcirdeba.
+brZolis RonisZiebebi: aucilebelia agroteqnikuri RonisZiebebis sworad da droulad Catareba; daava­ debuli egzemplarebis amoZirkva; sertificirebuli saRi sanerge masalis gamoyeneba.
+
+
+
+
+
+
+
+
+
+
+
+
+58
+
+
+
+
+
+
+
+
+
+
+
+1
+
+
+
+
+
+
+
+
+
+2
+
+1, 2 – virusuli mozaika Txilis foTlebze
+
+
+
+59
+xavsebi da mRierebi
+
+Txilis baRebSi Zlieri daCrdilvisas, gausxvlelo-bis da maRali tenianobis dros, SesaZloa, xavsebi da mRierebi ganviTardnen. isini Txilis Stambsa da var-jze  moyviTalo,  momwvano  an  monacrisfro  laqebs warmoSoben. xavsebi da mRierebi epifitebi arian anu mcenareze  meqanikurad  arian  dakavSirebuli  da  mis uSualo daavadebas ar iwveven. Tumca ziani mainc mo-aqvT mcenarisaTvis, radgan maTSi SeiZleba daibudos sxvadasxva mavne mwerma. garda amisa, isini zrdian te-nianobas,  riTac  xels  uwyoben  sxvadasxva  paTogeni sokosa Tu baqteriis ganviTarebas. aqedan gamomdina-re, xavsebi da mRierebi xSirad sakmaod did proble-mebs qmnian Txilis baRebSi.
+brZola: saWiroa specialuri meqanikuri safxekebiT (rkinis jagrisiT) Camofxeka; wamloba xdeba gvian Se-modgomiT an adre gazafxulze 3­5 %­iani rkinis ZaRis samuSao xsnariT an sxva, biomeurneobaSi daSvebuli preparatebiT.
+
+
+
+
+
+
+
+60
+
+
+
+
+
+
+
+
+
+
+
+
+
+1
+
+
+
+
+
+
+
+
+2	3
+
+1, 2, 3 – xavsebi da mRierebi Txilis mcenareebze
+
+
+61
+gamoyenebuli literatura
+
+1.	aleqsiZe g. mcenareTa dacva. Tbilisi, 2014
+2.	 mz. lobJaniZe, m. beruaSvili, g. gagoSiZe „mcena-reTa dacva“, mcenareTa dacvis teqnikosis eleq-tronuli saxelmZRvanelo, 2015. http://vet.ge/wp­content/uploads/2015/08/studentis­ saxelmzgvanelo­mcenareta­dacvis­teqnikosi.pdf
+3.	mirotaZe n. mirotaZe m. xarxelauri n.  miqaZe n. kvezereli S. gonglaZe S. Txili, UNDP, Tbilisi, 2016
+4.	xeTereli a., beruaSvili m. mravalwliani kultu­ rebis daavadebebis atlasi, 2015
+5.	yanCaveli l.  sasoflo­sameurneo fitopaTolo­ gia. Tbilisi, 1981
+6.	 baTiaSvili i., dekanoiZe g. entomologia,. Tbili-si,1974
+7.	goliaZe   v.,nikolaiSvili   a.Txilis   mavneblebi, daavadebebi da brZolis RonisZiebebi.ozurgeTi, 2010w.
+8.	internet­masalebi
+
+
+
+
+62
+sarCevi
+
+Txilis cxvirgrZela	4 aziuri farosana	6 ambroziis xoWoebi                                                                        10 Txilis Savi xarabuza                                                                   14 Txilis bugri                                                                                 16 amerikuli TeTri pepela                                                             18 zamTris mzomela                                                                           20 murynis foTolWamia                                                                    22 Txilis kvirtis tkipa                                                                  24 Txilis nacari                                                                                28 xexilis Reros Cveulebrivi kibo                                             30 Txilis fesvis sidample                                                              32 Txilis nayofebis pirisferi sidample (Txilis obi)          34 Txilis alternariozi                                                                 36 anTraqnozi (yavisferi sidample )                                                 38 siSavis gamomwvevi sokoebi Txilze (kapnodiumi)                  40 nayofebis nacrisferi sidample                                               42 nacrisferi laqianoba Txilze                                                  44 fomofsisi                                                                                       46 Txilis nayofebis fuzariozi                                                    48 Txilis nayofis daavadebebi Senaxvis periodSi                   50 baqteriuli kibo                                                                           52 baqteriuli sidamwvre                                                                 54 Txilis rgollaqianoba                                                              56 Txilis mozaika                                                                              58 xavsebi da mRierebi                                                                       60 gamoyenebuli literatura                                                        62
+
+63
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+gamomcemloba `universali~
+Tbilisi, 0186, a. politkovskaias #4.   :  5(99) 33 52 02, 5(99) 17 22 30 E-mail: universal505@ymail.com; gamomcemlobauniversali@gmail.com
+
+
+
+64
