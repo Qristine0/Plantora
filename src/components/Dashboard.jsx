@@ -38,7 +38,8 @@ export default function Dashboard() {
                 <div className="text-2xl font-bold">{weather.temp_c}°C</div>
               </div>
             </div>
-            <div className="text-sm">დღეს: {weather.condition.text}</div>
+            {/* todo add translation */}
+            {/* <div className="text-sm">{weather.condition.text}</div> */}
           </div>
         ) : (
           <>
@@ -71,7 +72,7 @@ export default function Dashboard() {
 
         <div className="mt-3 grid grid-cols-3 gap-3">
           <button
-            className="bg-green-600/70 p-3 rounded-lg flex flex-col items-center gap-2 hover:cursor-pointer"
+            className="bg-green-600/70 p-3 rounded-lg flex flex-col items-center gap-2 hover:cursor-pointer justify-center"
             onClick={() => Navigate("/scanner")}
           >
             <Camera className="w-5 h-5" />
@@ -79,14 +80,14 @@ export default function Dashboard() {
             <span className="text-xs">პლანტის სკანერი</span>
           </button>
           <button
-            className="bg-green-600/70 p-3 rounded-lg flex flex-col items-center gap-2 hover:cursor-pointer"
+            className="bg-green-600/70 p-3 rounded-lg flex flex-col items-center gap-2 hover:cursor-pointer justify-center"
             onClick={() => Navigate("/chat")}
           >
             <MessageSquare className="w-5 h-5" />
             <span className="text-xs">ჩატი</span>
           </button>
           <button
-            className="bg-green-600/70 p-3 rounded-lg flex flex-col items-center gap-2 hover:cursor-pointer"
+            className="bg-green-600/70 p-3 rounded-lg flex flex-col items-center gap-2 hover:cursor-pointer justify-center"
             onClick={() => Navigate("/weather")}
           >
             <Sun className="w-5 h-5" />

@@ -38,7 +38,8 @@ export default function WeatherCard() {
         />
         <div>
           <p className="text-3xl font-bold text-gray-900">{weather.temp_c}°C</p>
-          <p className="text-gray-600">{weather.condition.text}</p>
+          {/* todo translate */}
+          {/* <p className="text-gray-600">{weather.condition.text}</p> */}
         </div>
       </div>
 
@@ -74,9 +75,11 @@ export default function WeatherCard() {
               className="w-14 h-14"
             />
             <div>
-              <p className="text-gray-700 font-medium">
+              {/* todo translate */}
+
+              {/* <p className="text-gray-700 font-medium">
                 {tomorrow.day.condition.text}
-              </p>
+              </p> */}
               <p className="text-lg font-bold text-gray-900">
                 🌡 {tomorrow.day.maxtemp_c}° / {tomorrow.day.mintemp_c}°C
               </p>

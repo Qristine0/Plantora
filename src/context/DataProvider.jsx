@@ -1,5 +1,6 @@
 import React, { useContext, useEffect, useMemo, useState } from "react";
 import axios from "axios";
+import useStorage from "../hooks/useStorage";
 
 // todo - could add location (if farmer is in a different place from phone)
 
@@ -15,6 +16,17 @@ const DataProvider = ({ children }) => {
   const [location, setLocation] = useState({ latitude: null, longitude: null });
   const [weather, setWeather] = useState(null);
   const [tomorrow, setTomorrow] = useState(null);
+  const [farmerInfo, setFarmerInfo, removeFarmerInfo] = useStorage(
+    "plantorra-farmer-info",
+    {},
+    localStorage
+  );
+
+  const [prediction, setPrediction, removePrediction] = useStorage(
+    "plantorra-prediction-info",
+    null,
+    localStorage
+  );
 
   useEffect(() => {
     if (!location.latitude || !location.longitude) {
@@ -22,21 +34,7 @@ const DataProvider = ({ children }) => {
       return;
     }
 
-    // // current location
-    // axios
-    //   .get(
-    //     `http://api.weatherapi.com/v1/current.json?key=${WEATHER_API_KEY}&q=${location.latitude},${location.longitude}`,
-    //     {
-    //       headers: {},
-    //     }
-    //   )
-    //   .then((data) => {
-    //     setWeather(data.data.current);
-    //     console.log(data);
-    //   })
-    //   .catch((err) => console.log(err));
-
-    // tomorrows location
+    // today and tomorrows forecast
     axios
       .get("https://api.weatherapi.com/v1/forecast.json", {
         params: {
@@ -85,6 +83,12 @@ const DataProvider = ({ children }) => {
     setWeather,
     tomorrow,
     setTomorrow,
+    farmerInfo,
+    setFarmerInfo,
+    removeFarmerInfo,
+    prediction,
+    setPrediction,
+    removePrediction,
   };
   return <DataContext.Provider value={value}>{children}</DataContext.Provider>;
 };

@@ -5,10 +5,11 @@ const BACKEND_URL = "https://plantora.onrender.com";
 
 export default function ChatSection() {
   // todo misalmebis mesiji
+  // todo translation
   const [messages, setMessages] = useState([
     {
-      sender: "🌿 plantora",
-      text: "გამარჯობა, ნებისმიერი კითხვა აგროკულტურაზე",
+      sender: "🌿 პლანტორა",
+      text: "გამარჯობა, დამისვი ნებისმიერი კითხვა აგროკულტურაზე",
     },
   ]);
   const [input, setInput] = useState("");
@@ -38,13 +39,19 @@ export default function ChatSection() {
 
       setMessages([
         ...newMessages,
-        { sender: "🌿 plantora", text: reply.reply },
+        {
+          sender: "🌿 პლანტორა",
+          text: reply.reply
+            .split("*")
+            .filter((a) => a.length > 0)
+            .join(" "),
+        },
       ]);
     } catch (error) {
       console.error("Gemini API error:", error);
       setMessages([
         ...newMessages,
-        { sender: "🌿 plantora", text: "დაფიქსირდა შეცდომა 😕" },
+        { sender: "🌿 პლანტორა", text: "დაფიქსირდა შეცდომა 😕" },
       ]);
     } finally {
       setLoading(false);
@@ -52,7 +59,7 @@ export default function ChatSection() {
   };
 
   return (
-    <div className="bg-white rounded-2xl p-4 shadow-md">
+    <div className="bg-white rounded-2xl p-4 shadow-md ">
       <h2 className="text-green-700 font-semibold mb-2">ჩათი</h2>
       <div className="bg-gray-50 p-2 rounded-lg overflow-y-auto h-[70vh]">
         {messages.map((msg, i) => (
