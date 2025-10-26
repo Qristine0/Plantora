@@ -38,25 +38,57 @@ export default function MyLand() {
   };
 
   // todo mtlad random ar iyos??
-  function generateHazelnutDataYearlyAvg(samples = 50) {
+  function generateHazelnutDataRealistic(samples = 50) {
     const X = [];
     const y = [];
 
     for (let i = 0; i < samples; i++) {
-      const area = +(0.5 + Math.random() * 1.5).toFixed(2); // 0.5 - 2 ha
-      const quantity = Math.floor(100 + Math.random() * 300); // 100 - 400 plants
-      const qualityScore = 2 * Math.floor(1 + Math.random() * 3); // 1 - 3
-      const avgTemp = +(12 + Math.random() * 4).toFixed(1); // 12 - 16 °C annual average
-      const lastYear = Math.floor(200 + Math.random() * 500); // 200 - 700 kg
+      // 1) Area: 0.5 - 5 ha (small to medium plot)
+      const area = +(0.5 + Math.random() * 4.5).toFixed(2);
 
-      // Simple regression-like formula for synthetic yield
-      const yieldKg = +(
-        area * quantity * qualityScore * (avgTemp / 15) * 0.9 +
-        lastYear * 0.1
-      ).toFixed(1);
+      // 2) Density: trees per hectare (500 - 2500)
+      const density = Math.floor(500 + Math.random() * 2000);
 
-      X.push([area, quantity, qualityScore, avgTemp, lastYear]);
-      y.push([yieldKg]);
+      // 3) Quantity = area * density (round to whole trees)
+      const quantity = Math.max(1, Math.round(area * density));
+
+      // 4) Quality score: 1 (poor), 2 (average), 3 (good)
+      const qualityScore = Math.floor(1 + Math.random() * 3); // 1..3
+
+      // 5) Whole-year avg temp (°C) - typical range for temperate/hazelnut regions
+      const avgTemp = +(10 + Math.random() * 8).toFixed(1); // 10.0 - 18.0 °C
+
+      // 6) Last year total yield for the plot (kg)
+      // generate a plausible last-year yield per hectare then multiply by area
+      const lastYearYieldPerHa = +(2000 + Math.random() * 1500).toFixed(1); // 2000 - 3500 kg/ha
+      const lastYearTotal = Math.round(lastYearYieldPerHa * area);
+
+      // 7) Now compute this year's synthetic yield:
+      // baseYieldPerHa in realistic range (2500 - 3500 kg/ha)
+      const baseYieldPerHa = 2500 + Math.random() * 1000; // 2500 - 3500
+
+      // quality modifier: poor 0.85, avg 1.0, good 1.12 (tunable)
+      const qualityMod =
+        qualityScore === 3 ? 1.12 : qualityScore === 2 ? 1.0 : 0.85;
+
+      // temperature modifier: optimal around ~15°C (tunable). Penalize deviations.
+      const optimalTemp = 15;
+      const tempDiff = Math.abs(avgTemp - optimalTemp);
+      // small penalty per degree (example: 3% per °C away) but clamp
+      const tempMod = Math.max(0.75, 1 - 0.03 * tempDiff);
+
+      // small management/noise factor (±10%)
+      const noiseFactor = 0.9 + Math.random() * 0.2;
+
+      // combine into yield per hectare
+      const yieldPerHa = baseYieldPerHa * qualityMod * tempMod * noiseFactor;
+
+      // total yield for plot in kg
+      const totalYield = Math.round(yieldPerHa * area);
+
+      // push into arrays
+      X.push([area, quantity, qualityScore, avgTemp, lastYearTotal]);
+      y.push([totalYield]);
     }
 
     return { X, y };
@@ -114,7 +146,7 @@ export default function MyLand() {
         // // Corresponding yields
         // const y = [[500], [400], [620], [250], [580], [420]];
 
-        const { X, y } = generateHazelnutDataYearlyAvg(50);
+        const { X, y } = generateHazelnutDataRealistic(50);
         console.log(X, y);
         // Prepare the input for prediction (also include lastYear)
         const predictedYield = await trainAndPredict(X, y, [
@@ -161,7 +193,7 @@ export default function MyLand() {
             onChange={handleChange}
             className="w-full border rounded-md p-2 text-sm"
             placeholder={
-              farmerInfo.area ? `${farmerInfo.area} ჰა` : "მაგ: 150 ჰა"
+              farmerInfo.area ? `${farmerInfo.area} ჰა` : "მაგ: 1.5 ჰა"
             }
           />
         </div>
@@ -180,7 +212,7 @@ export default function MyLand() {
             placeholder={
               farmerInfo.quantity
                 ? `${farmerInfo.quantity} ცალი ნერგი`
-                : "მაგ: 1200 ნერგი"
+                : "მაგ: 3000 ნერგი"
             }
           />
         </div>
@@ -197,7 +229,7 @@ export default function MyLand() {
             onChange={handleChange}
             className="w-full border rounded-md p-2 text-sm"
             placeholder={
-              farmerInfo.lastYear ? `${farmerInfo.lastYear} კგ` : "მაგ: 150 კგ"
+              farmerInfo.lastYear ? `${farmerInfo.lastYear} კგ` : "მაგ: 2500 კგ"
             }
           />
         </div>

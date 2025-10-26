@@ -5,7 +5,13 @@ import { useData } from "../context/DataProvider";
 const APIKEY = "3QNgBIistUK89oUGY1lNYt04p9MKpber7zrVGoXSvQgS1LZw6e";
 const LANGUAGE = "ka"; // Georgian language ISO code
 
-// todo - add translation to the question and the disease answer
+// todo - make the translation dynamic (now it's hardcoded for demonstration purpose)
+const TRANSLATIONS = {
+  "Do you see visible insects, webbing, holes, or honeydew on or around the plant?":
+    "ხედავთ თუ არა მცენარეზე ან მის გარშემო ხილულ მწერებს, ბადისებრ ნაკვერჩხლებს, ნახვრეტებს ან თაფლის ნამს?",
+  Fungi: "სოკოვანი დაავადება",
+  "feeding damage by insects": "მწერების მიერ კვების დაზიანება",
+};
 
 export default function PlantScanner() {
   const [selectedImage, setSelectedImage] = useState(null);
@@ -32,7 +38,10 @@ export default function PlantScanner() {
       console.log("Please provide a base64 image string");
       return;
     }
+    setQuestion(null);
+    setFinalSuggestion(null);
 
+    // todo add null checking instead of defaults
     const body = {
       images: [imageBase64],
       latitude: location?.latitude || 42.5,
@@ -138,7 +147,9 @@ export default function PlantScanner() {
           ) : question && !userAnswer ? (
             <div className="mt-3 p-3 bg-yellow-50 rounded-xl border border-yellow-200">
               <p className="font-semibold mb-2">
-                {question.translation || question.text}
+                {question.translation ||
+                  TRANSLATIONS[question.text] ||
+                  question.text}
               </p>
               <div className="flex justify-around">
                 <button
@@ -158,7 +169,8 @@ export default function PlantScanner() {
           ) : finalSuggestion ? (
             <div className="mt-4">
               <h3 className="font-semibold text-lg text-green-700">
-                დიაგნოზი: {finalSuggestion.name}
+                დიაგნოზი:{" "}
+                {TRANSLATIONS[finalSuggestion.name] || finalSuggestion.name}
               </h3>
               <div className="flex flex-wrap gap-2 mt-2">
                 {finalSuggestion.similar_images?.map((img, i) => (

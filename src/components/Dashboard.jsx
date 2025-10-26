@@ -72,7 +72,7 @@ export default function Dashboard() {
           >
             <Camera className="w-5 h-5" />
             <Link></Link>
-            <span className="text-xs">პლანტის სკანერი</span>
+            <span className="text-xs">მცენარის სკანერი</span>
           </button>
           <button
             className="bg-green-600/70 p-3 rounded-lg flex flex-col items-center gap-2 hover:cursor-pointer justify-center"
