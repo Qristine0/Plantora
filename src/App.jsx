@@ -8,8 +8,6 @@ import Dashboard from "./components/Dashboard";
 import DataProvider from "./context/DataProvider";
 import { Link } from "react-router-dom";
 
-// todo change 🌿to txili
-
 export default function App() {
   const location = useLocation();
 
@@ -20,9 +18,6 @@ export default function App() {
           "min-h-screen bg-green-50 p-6 space-y-6 F flex flex-col items-center justify-center"
         }
       >
-        {/* <h1 className="text-2xl font-bold text-green-700">Plantora 🌿</h1> */}
-
-        {/* todo add margin or padding bottom */}
         {location.pathname !== "/" && (
           <Link to="/" className="text-2xl font-bold text-green-700">
             Plantora 🌿
@@ -44,7 +39,6 @@ export default function App() {
             <Route path="scanner" element={<PlantScanner />} />
             <Route path="land" element={<MyLand />} />
             <Route path="chat" element={<ChatSection />} />
-            {/* todo redirect */}
             <Route
               path="*"
               element={<p className="invalid">Redirecting...</p>}

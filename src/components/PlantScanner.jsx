@@ -5,6 +5,8 @@ import { useData } from "../context/DataProvider";
 const APIKEY = "3QNgBIistUK89oUGY1lNYt04p9MKpber7zrVGoXSvQgS1LZw6e";
 const LANGUAGE = "ka"; // Georgian language ISO code
 
+// todo - add translation to the question and the disease answer
+
 export default function PlantScanner() {
   const [selectedImage, setSelectedImage] = useState(null);
   const { location } = useData();

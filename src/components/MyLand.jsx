@@ -37,6 +37,31 @@ export default function MyLand() {
     }));
   };
 
+  // todo mtlad random ar iyos??
+  function generateHazelnutDataYearlyAvg(samples = 50) {
+    const X = [];
+    const y = [];
+
+    for (let i = 0; i < samples; i++) {
+      const area = +(0.5 + Math.random() * 1.5).toFixed(2); // 0.5 - 2 ha
+      const quantity = Math.floor(100 + Math.random() * 300); // 100 - 400 plants
+      const qualityScore = 2 * Math.floor(1 + Math.random() * 3); // 1 - 3
+      const avgTemp = +(12 + Math.random() * 4).toFixed(1); // 12 - 16 °C annual average
+      const lastYear = Math.floor(200 + Math.random() * 500); // 200 - 700 kg
+
+      // Simple regression-like formula for synthetic yield
+      const yieldKg = +(
+        area * quantity * qualityScore * (avgTemp / 15) * 0.9 +
+        lastYear * 0.1
+      ).toFixed(1);
+
+      X.push([area, quantity, qualityScore, avgTemp, lastYear]);
+      y.push([yieldKg]);
+    }
+
+    return { X, y };
+  }
+
   useEffect(() => {
     async function computePrediction() {
       if (
@@ -77,18 +102,20 @@ export default function MyLand() {
 
         console.log("Average temperature for past year:", avgTemp);
 
-        const X = [
-          [1.0, 200, 3, 24, 480],
-          [0.8, 180, 2, 21, 400],
-          [1.2, 250, 3, 26, 620],
-          [0.5, 100, 1, 20, 250],
-          [1.0, 230, 3, 27, 580],
-          [0.9, 190, 2, 23, 420],
-        ];
+        // const X = [
+        //   [1.0, 200, 3, 24, 480],
+        //   [0.8, 180, 2, 21, 400],
+        //   [1.2, 250, 3, 26, 620],
+        //   [0.5, 100, 1, 20, 250],
+        //   [1.0, 230, 3, 27, 580],
+        //   [0.9, 190, 2, 23, 420],
+        // ];
 
-        // Corresponding yields
-        const y = [[500], [400], [620], [250], [580], [420]];
+        // // Corresponding yields
+        // const y = [[500], [400], [620], [250], [580], [420]];
 
+        const { X, y } = generateHazelnutDataYearlyAvg(50);
+        console.log(X, y);
         // Prepare the input for prediction (also include lastYear)
         const predictedYield = await trainAndPredict(X, y, [
           farmerInfo.area,
@@ -97,9 +124,6 @@ export default function MyLand() {
           avgTemp,
           farmerInfo.lastYear,
         ]);
-
-        // todo
-        console.log(predictedYield);
 
         setPrediction(
           `${Math.max(

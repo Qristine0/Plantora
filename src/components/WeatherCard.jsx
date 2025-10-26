@@ -1,8 +1,6 @@
 import { useEffect, useState } from "react";
 import { useData } from "../context/DataProvider";
 
-// todo could show weather by hour (or the whole month, as it will affect the crops more)
-
 export default function WeatherCard() {
   const { weather, tomorrow } = useData();
 
@@ -38,7 +36,6 @@ export default function WeatherCard() {
         />
         <div>
           <p className="text-3xl font-bold text-gray-900">{weather.temp_c}°C</p>
-          {/* todo translate */}
           {/* <p className="text-gray-600">{weather.condition.text}</p> */}
         </div>
       </div>
@@ -75,8 +72,6 @@ export default function WeatherCard() {
               className="w-14 h-14"
             />
             <div>
-              {/* todo translate */}
-
               {/* <p className="text-gray-700 font-medium">
                 {tomorrow.day.condition.text}
               </p> */}

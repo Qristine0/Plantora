@@ -4,8 +4,6 @@ const BACKEND_URL = "https://plantora.onrender.com";
 // http://localhost:3000
 
 export default function ChatSection() {
-  // todo misalmebis mesiji
-  // todo translation
   const [messages, setMessages] = useState([
     {
       sender: "🌿 პლანტორა",

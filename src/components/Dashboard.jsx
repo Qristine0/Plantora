@@ -2,9 +2,6 @@ import { Sun, Droplet, Leaf, Camera, Bell, MessageSquare } from "lucide-react";
 import { useData } from "../context/DataProvider";
 import { Link, useNavigate } from "react-router-dom";
 
-// todo could show tomorrows weather instead of todays
-// todo could do notifications as popup
-
 export default function Dashboard() {
   const { weather } = useData();
   const Navigate = useNavigate();
@@ -38,12 +35,10 @@ export default function Dashboard() {
                 <div className="text-2xl font-bold">{weather.temp_c}°C</div>
               </div>
             </div>
-            {/* todo add translation */}
             {/* <div className="text-sm">{weather.condition.text}</div> */}
           </div>
         ) : (
           <>
-            {/* todo */}
             <p>მდებარეობა არაა მითითებული</p>
           </>
         )}
