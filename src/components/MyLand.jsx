@@ -107,7 +107,7 @@ export default function MyLand() {
               Number(farmerInfo.lastYear) +
               Number(farmerInfo.lastYear) * 0.1 * (qualityScore - 1.8)
             ).toFixed(2),
-            predictedYield
+            predictedYield.toFixed(2)
           )} კგ მოსავალია მოსალოდნელი`
         );
       } else {
